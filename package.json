@@ -1,0 +1,21 @@
+{
+  "name": "drop-cli",
+  "version": "1.0.0",
+  "description": "a cli of web template",
+  "main": "index.js",
+  "bin": {
+    "drop-cli": "bin/drop-cli"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rainlevo <229208577@qq.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  },
+  "devDependencies": {}
+}
