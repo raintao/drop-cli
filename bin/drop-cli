@@ -32,25 +32,25 @@ program
     require('../command/init')()
   })
 
-program
-	.command('add')
-	.description('For author use only')
-  .alias('a')
-  .action(() => {
-    require('../command/add')()
-  })
+// program
+// 	.command('add')
+// 	.description('For author use only')
+//   .alias('a')
+//   .action(() => {
+//     require('../command/add')()
+//   })
 
-program
-    .command('delete')
-    .description('For author use only')
-    .alias('d')
-    .action(() => {
-        require('../command/delete')()
-    })
+// program
+//     .command('delete')
+//     .description('For author use only')
+//     .alias('d')
+//     .action(() => {
+//         require('../command/delete')()
+//     })
 
 // 处理参数和提供帮助信息
 program.parse(process.argv)
 
 if(!program.args.length){
-  program.help()
+    program.help()
 }
