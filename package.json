@@ -6,6 +6,10 @@
   "bin": {
     "drop-cli": "bin/drop-cli"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raintao/drop-cli"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
