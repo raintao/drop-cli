@@ -2,7 +2,7 @@
 	"tpl": {
 		"gulp-html-front": {
 			"url": "https://github.com/raintao/gulp-html-front.git",
-			"branch": "dev",
+			"branch": "master",
 			"description": "gulp setup in more HTML file with hot-reload(less es6)"
 		}
 	}
