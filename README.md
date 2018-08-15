@@ -18,3 +18,9 @@ $ cd gulp-html-test
 $ npm install
 
 ```
+
+#### 3. 模版链接
+
+##### [vue-pc-admin-front](https://github.com/raintao/vue-pc-admin-front) : a vue-pc-admin template in one HTML wihte hot-reload
+##### [vue-mobile-front](https://github.com/raintao/vue-mobile-front) : a vue-mobile template in one HTML wihte hot-reload
+##### [gulp-html-front](https://github.com/raintao/gulp-html-front) : gulp setup in more HTML file with hot-reload(less es6)

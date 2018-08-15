@@ -1,5 +1,15 @@
 {
 	"tpl": {
+		"vue-pc-admin-front": {
+			"url": "https://github.com/raintao/vue-pc-admin-front.git",
+			"branch": "master",
+			"description": "a vue-pc-admin template in one HTML wihte hot-reload"
+		},
+		"vue-mobile-front": {
+			"url": "https://github.com/raintao/vue-mobile-front.git",
+			"branch": "master",
+			"description": "a vue-mobile template in one HTML wihte hot-reload"
+		},
 		"gulp-html-front": {
 			"url": "https://github.com/raintao/gulp-html-front.git",
 			"branch": "master",
