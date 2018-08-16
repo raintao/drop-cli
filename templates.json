@@ -10,6 +10,11 @@
 			"branch": "master",
 			"description": "a vue-mobile template in one HTML wihte hot-reload"
 		},
+		"drop-element": {
+			"url": "https://github.com/raintao/drop-element.git",
+			"branch": "master",
+			"description": "an NPM package for vue components"
+		},
 		"gulp-html-front": {
 			"url": "https://github.com/raintao/gulp-html-front.git",
 			"branch": "master",

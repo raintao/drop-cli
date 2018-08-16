@@ -1,6 +1,6 @@
 {
   "name": "drop-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a cli of web template",
   "main": "index.js",
   "bin": {
